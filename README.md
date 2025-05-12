@@ -1,7 +1,5 @@
 # irc-bootcamp-programming
-Nama : Aziziah Dina Nabilah Salma
-Departemen : Fisika 61
-Divisi : RP Programming GCS
+Identitas : Aziziah Dina Nabilah Salma / Fisika 61 / GCS
 
 #Resume Bootcamp Day 2
 1. Pengenalan Divisi Programming
@@ -26,9 +24,9 @@ Tipe data ditentukan otomatis (int, float, str, dll). Deklarasi berupa ledPin = 
 
 
 #Penjelasan led_servo.ino
-link wokwi : 
 1. ledPin dan servoPin untuk LED dan servo
 2. pinMode(ledPin, OUTPUT) mengatur pin LED sebagai output
 3. Variabel previousMillis dan millis() digunakan agar LED berkedip tiap 1 detik tanpa menggunakan delay()
 4. LED akan berubah status (nyala/mati) setiap 1000 milidetik
 5. Servo digerakkan menggunakan myServo.write(angle) di dalam loop.
+6. link wokwi : 
